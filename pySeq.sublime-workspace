@@ -1,0 +1,805 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"app",
+				"Application"
+			],
+			[
+				"cre",
+				"createWidgets"
+			],
+			[
+				"seq",
+				"seq_iterator	(global, instance)"
+			],
+			[
+				"myse",
+				"myseqrecord	(global, instance)"
+			],
+			[
+				"Seq",
+				"SeqIO  (module)"
+			],
+			[
+				"e",
+				"einfo  (function)"
+			],
+			[
+				"gen",
+				"genSpot"
+			],
+			[
+				"yM",
+				"yMax"
+			],
+			[
+				"fo",
+				"forWhat"
+			],
+			[
+				"set",
+				"set_xlim"
+			],
+			[
+				"mat",
+				"matplotlib  (module)"
+			],
+			[
+				"line",
+				"lineNumbers	(local, instance)"
+			],
+			[
+				"num",
+				"numpy  (module)"
+			],
+			[
+				"den",
+				"dens_DP	(global, instance)"
+			],
+			[
+				"x_",
+				"X_new_DP"
+			],
+			[
+				"X_n",
+				"X_new_DP	(global, instance)"
+			],
+			[
+				"a",
+				"ax	(global, instance)"
+			],
+			[
+				"i",
+				"io  (module)"
+			],
+			[
+				"to",
+				"tom20"
+			],
+			[
+				"n",
+				"n_component	(global, instance)"
+			],
+			[
+				"DIM",
+				"dimMax"
+			],
+			[
+				"dimM",
+				"dimMin	(global, instance)"
+			],
+			[
+				"py",
+				"pyfits"
+			],
+			[
+				"X",
+				"XDGMM	(imported, instance)"
+			],
+			[
+				"sc",
+				"scatter"
+			],
+			[
+				"p",
+				"plot"
+			],
+			[
+				"dim",
+				"dimMin	(global, instance)"
+			],
+			[
+				"ast",
+				"astroML  (module)"
+			],
+			[
+				"fro",
+				"from	(keyword, instance)"
+			],
+			[
+				"gau",
+				"gauOrig	(global, instance)"
+			],
+			[
+				"x",
+				"xrange	(builtin, class)"
+			],
+			[
+				"Y",
+				"YEls"
+			],
+			[
+				"n_",
+				"n_components"
+			],
+			[
+				"la",
+				"lastname"
+			],
+			[
+				"main",
+				"main"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"mx",
+				"mxArray"
+			],
+			[
+				"ISIG",
+				"iSigmaY"
+			],
+			[
+				"SI",
+				"sigmaY"
+			],
+			[
+				"sig",
+				"sigmaY"
+			],
+			[
+				"m",
+				"mxArray"
+			],
+			[
+				"__",
+				"__repeatPulsing__"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"ch",
+				"checkState"
+			],
+			[
+				"d",
+				"def	Function"
+			],
+			[
+				"re",
+				"returnPressed"
+			],
+			[
+				"las",
+				"laserLine1PowerEdit"
+			],
+			[
+				"laser",
+				"laserLine1PowerSlider"
+			],
+			[
+				"action",
+				"actionShutterLaserLine1"
+			],
+			[
+				"aotf",
+				"aotfcmd"
+			],
+			[
+				"Q",
+				"QtCore"
+			],
+			[
+				"CURV",
+				"curvesStatus"
+			],
+			[
+				"B",
+				"BackgroundColor"
+			],
+			[
+				"selC",
+				"selCurveNum"
+			],
+			[
+				"curv",
+				"curvesStatus"
+			],
+			[
+				"bad",
+				"badText"
+			],
+			[
+				"cu",
+				"curvesStatus"
+			],
+			[
+				"stepFittingGET",
+				"stepFittingGetCurvesMethod"
+			],
+			[
+				"fit",
+				"fitMethods"
+			],
+			[
+				"step",
+				"stepFittingCurvesNum"
+			],
+			[
+				"msg",
+				"msg"
+			],
+			[
+				"sen",
+				"send_message"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"in",
+				"inet_pton  (function)"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"Sampl",
+				"SampleRate"
+			],
+			[
+				"plai",
+				"plainText"
+			],
+			[
+				"MIME",
+				"MIMEMultipart"
+			],
+			[
+				"smtp",
+				"smtpObj"
+			],
+			[
+				"M",
+				"MIMEImage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "parseSeq.py",
+			"settings":
+			{
+				"buffer_size": 926,
+				"line_ending": "Windows",
+				"name": "##############"
+			}
+		},
+		{
+			"file": "test_re.py",
+			"settings":
+			{
+				"buffer_size": 205,
+				"line_ending": "Windows",
+				"name": "import re"
+			}
+		},
+		{
+			"file": "test.fasta",
+			"settings":
+			{
+				"buffer_size": 2000,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gui.py",
+			"settings":
+			{
+				"buffer_size": 1218,
+				"line_ending": "Windows",
+				"name": "import Tkinter as tk"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 382.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ro",
+				"Rope: New Project"
+			],
+			[
+				"rop",
+				"Rope: New Project"
+			],
+			[
+				"rope",
+				"Rope: New Project"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"fro",
+				"Create file from Template"
+			],
+			[
+				"from",
+				"Create file from Template"
+			],
+			[
+				"f",
+				"Create file from Template"
+			],
+			[
+				"from ",
+				"Create file from Template"
+			],
+			[
+				"from te",
+				"Create file from Template"
+			],
+			[
+				"Filetem",
+				"Create file from Template"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"pake",
+				"Package Control: Install Package"
+			],
+			[
+				"paki",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Package Control: Install Package"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pakage control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Pakage",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 188.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/bei/workspace/pySeq/uniprot-Homo sapiens (Human) [9606].fasta",
+		"/E/Data/CLEM/20130422/A-section/num1/N4/Dronpa-tom20-sr0.05-ROOMSECTION_TEMP_-148_1-crop_lvPALM.txt",
+		"/E/Data/CLEM/20130422/A-section/num1/N4/Dronpa-tom20-sr0.05-ROOMSECTION_TEMP_-148-crop_lvPALM.txt",
+		"/E/bei/workspace/pySeq/pySeq.sublime-project",
+		"/E/Data/CLEM/20130422/A-section/num1/N4/Dronpa-tom20-sr0.05-ROOMSECTION_TEMP_-90_2_lvPALM.txt",
+		"/E/Data/CLEM/20130422/A-section/num1/N4/Dronpa-tom20-sr0.05-ROOMSECTION_TEMP_-30_3_lvPALM.txt",
+		"/E/Data/CLEM/20130422/A-section/num1/N4/Dronpa-tom20-sr0.05-ROOMSECTION_TEMP_27_4_lvPALM.txt",
+		"/E/Data/CLEM/20130422/A-section/num1/N4/Dronpa-tom20-sr0.05-ROOMSECTION_TEMP_-148_lvPALM.txt",
+		"/E/Data/CLEM/20130422/A-section/num1/N4/Dronpa-tom20-sr0.05-ROOMSECTION_TEMP_27_lvPALM.txt",
+		"/E/Data/CLEM/20130422/A-section/num1/N4/Dronpa-tom20-sr0.05-ROOMSECTION_TEMP_-90_lvPALM.txt",
+		"/E/Data/CLEM/20130422/A-section/num1/N4/Dronpa-tom20-sr0.05-ROOMSECTION_TEMP_-90_1_lvPALM.txt",
+		"/E/Data/CLEM/20130422/A-section/num1/N4/Dronpa-tom20-sr0.05-ROOMSECTION_TEMP_-30_1_lvPALM.txt",
+		"/E/Data/CLEM/20130422/A-section/num1/N4/Dronpa-tom20-sr0.05-ROOMSECTION_TEMP_-30_2_lvPALM.txt",
+		"/I/kif113a/bleaching/yy/20130416/1-354-kif13a-gfp-bleaching_17-NOBG/1-354-kif13a-gfp-bleaching_17-NOBG_Curve15.txt",
+		"/I/kif113a/bleaching/yy/20130416/1-354-kif13a-gfp-bleaching_17-NOBG/1-354-kif13a-gfp-bleaching_17-NOBG_Curve18.txt",
+		"/I/kif113a/bleaching/yy/20130416/1-354-kif13a-gfp-bleaching_17-NOBG/1-354-kif13a-gfp-bleaching_17-NOBG_Curve20.txt",
+		"/E/NEXUS4/一键解锁.bat",
+		"/J/yy/20130417/note.txt",
+		"/J/yy/20130410/1-354-kif13a-gfp-cos-1/1-354-kif13a-gfp-cos-1_6-NOBG/1-354-kif13a-gfp-cos-1_6-NOBG_Curve1.txt",
+		"/C/Users/dell/Desktop/user.js",
+		"/E/bei/workspace/pyLM/src/fig_great_wall_GMM.py",
+		"/E/bei/workspace/pyLM/simuData",
+		"/D/LVrev64/configure/PalmGUIConfigure",
+		"/E/bei/workspace/pyLM/src/.codeintel/config",
+		"/D/Python27/Lib/site-packages/astroML/density_estimation/gauss_mixture.py",
+		"/D/Python27/Lib/site-packages/astroML/linear_model/kernel_regression.py",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/E/bei/workspace/pyLM/src/great_wall_GMM.pkl",
+		"/E/bei/workspace/pyLM/gaussfitter.py",
+		"/E/bei/workspace/pyLM/XD_astroML.py",
+		"/E/Download/Downloads/matlab_ParforProgress2/matlab-ParforProgress2/README.md",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/E/bei/workspace/pyLM/.codeintel/config",
+		"/E/bei/workspace/pyLM/test.py",
+		"/E/bei/workspace/pyLM/genGaussian.py",
+		"/E/bei/workspace/pyLM/mat2fit.py",
+		"/E/bei/workspace/pyLM/XD.py",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/E/bei/workspace/pyLM/mpfit.py",
+		"/E/bei/workspace/pyLM/XD_toy.pkl",
+		"/E/bei/workspace/pyLM/SimuSteps/locErr.fits",
+		"/E/bei/workspace/pyLM/SimuSteps/loc.fits",
+		"/K/serial/Readme.txt",
+		"/C/Program Files (x86)/Stardock/ObjectDock/Readme.txt",
+		"/H/2013-3-12/PAmCherry/35mw/PAmCherry_sr0.02_35mw_1mg.ml_3_lvPALM.txt",
+		"/H/2013-3-12/Dronpa/25mw/Dronpa_sr0.02_25mw_1mg.ml_lvPALM.txt",
+		"/D/Python27/Lib/distutils/distutils.cfg",
+		"/D/Python27/Lib/distutils/msvc9compiler.py",
+		"/H/2013-3-12/mEos3.2/45mw/mEos3.2_sr0.02_45mw_1mg.ml_1_lvPALM.txt",
+		"/H/2013-3-12/mEos3.2/45mw/mEos3.2_sr0.02_45mw_1mg.ml_lvPALM.txt",
+		"/H/2013-3-12/mEos3.2/40mw/mEos3.2_sr0.02_40mw_1mg.ml_1_lvPALM.txt",
+		"/H/2013-3-12/mEos3.2/40mw/mEos3.2_sr0.02_40mw_1mg.ml_lvPALM.txt",
+		"/E/proj/python/CLEMdb/PersonTable.py",
+		"/E/proj/python/viewRenren/main.py",
+		"/E/bei/paper/Super-resolution Imaging/3D method/3D_Daostorm/3D_Daostorm/utilities/README.txt",
+		"/E/proj/python/pyImage/test.py",
+		"/E/Download/Downloads/男女内参.txt",
+		"/H/CY/2013-3-5-10PL/mEos3.2/25mw/task_log.txt",
+		"/H/CY/2013-3-5-10PL/mEos3.2/25mw/mEos3.2_sr0.02s_25mw_1mg.ml_lvPALM.txt",
+		"/D/Program Files (x86)/EndNote X6/License.dat",
+		"/C/Users/dell/Desktop/qingchu.txt",
+		"/J/2013-2-27-10PL/tdEos/1mw/tdEos_sr0.02s_1mw_1mg.ml.tif_1_lvPALM.txt",
+		"/H/2012-2-27-10PL/mEos3.2/25mw/mEos3.2_sr0.02s_25mw_0.5mg.ml_1_lvPALM.txt",
+		"/E/吴闲云·煮酒探西游.txt",
+		"/H/2012-2-27-10PL/mEos3.2/25mw/mEos3.2_sr0.02s_25mw_0.5mg.ml_2_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/40mw/tdEos_sr0.02s_40mw_1mg.ml.tif_1_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/40mw/tdEos_sr0.02s_40mw_1mg.ml.tif_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/40mw/tdEos_sr0.02s_40mw_1mg.ml.tif_2_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/35mw/tdEos_sr0.02s_35mw_1mg.ml.tif_1_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/35mw/tdEos_sr0.02s_35mw_1mg.ml.tif_2_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/35mw/tdEos_sr0.02s_35mw_1mg.ml.tif_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/30mw/tdEos_sr0.02s_30mw_1mg.ml.tif_1_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/30mw/tdEos_sr0.02s_30mw_1mg.ml.tif_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/30mw/tdEos_sr0.02s_30mw_1mg.ml.tif_2_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/25mw/tdEos_sr0.02s_25mw_1mg.ml.tif_2_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/25mw/tdEos_sr0.02s_25mw_1mg.ml.tif_lvPALM.txt",
+		"/H/2012-2-27-10PL/tdEos/25mw/tdEos_sr0.02s_25mw_1mg.ml.tif_1_lvPALM.txt",
+		"/D/Python27/Lib/site-packages/matplotlib/mpl-data/matplotlibrc",
+		"/E/bei/paper/Super-resolution Imaging/3D method/3D_Daostorm/3D_Daostorm/README.txt",
+		"/E/bei/workspace/viewFriendsNet/graph_zw.txt",
+		"/E/proj/python/viewRenren/6118.txt",
+		"/E/proj/python/viewRenren/graph.txt",
+		"/E/proj/python/viewRenren/202449266.txt",
+		"/C/Users/dell/Desktop/你好.txt",
+		"/D/TDDownload/BT5R3-GNOME-32-VM/BT5R3-GNOME-32-VM.txt",
+		"/E/Software/dist/SQLAlchemy-0.7.9/README.rst",
+		"/E/proj/python/CLEMdb/ttt.py",
+		"/E/Software/dist/SQLAlchemy-0.7.9/README.py3k",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/E/proj/python/CLEMdb/.ropeproject/objectdb",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/D/Sublime Text 2/Pristine Packages/Python.sublime-package",
+		"/E/proj/python/pyImage/imgArrayAvg.txt",
+		"/C/Users/dell/Desktop/goagent-goagent-v2.1.11-102-g999f535/goagent-goagent-999f535/local/proxy.ini",
+		"/E/Download/Acronis.Disk.Director.Suite.v10.0.2160/使用说明.txt",
+		"/C/Users/dell/AppData/Local/Temp/Temp1_tc_plugman.zip/Readme/FAQ.txt",
+		"/C/Users/dell/AppData/Local/Temp/Temp1_tc_plugman.zip/Readme/Readme.txt",
+		"/H/20130108/dronpa-tom20/NUM3/Q3-UL/293-TOM20-DRONPA-200NM-SR0.05-25MW_1_X2-CROP_lvPALM.txt",
+		"/H/20130108/egfp-tom20/NUM1/i8 rm/293-tom20-egfp-sr0.05-laser20mw-crop_lvPALM.txt",
+		"/H/20130108/egfp-tom20/NUM1/i8 rm/293-tom20-egfp-sr0.05-laser25mw-crop_lvPALM.txt",
+		"/H/20130108/egfp-tom20/NUM1/i8 rm/293-tom20-egfp-sr0.05-laser30mw-crop_lvPALM.txt",
+		"/H/20130108/egfp-tom20/NUM1/i8 rm/293-tom20-egfp-sr0.05-laser16mw-crop_lvPALM.txt",
+		"/H/20130108/dronpa-tom20/NUM3/Q3-UL/293-TOM20-DRONPA-200NM-SR0.05-25MW_1-CROP_lvPALM.txt",
+		"/H/20130108/dronpa-tom20/NUM3/Q3-UL/293-TOM20-DRONPA-200NM-SR0.05-25MW_2-CROP_lvPALM.txt",
+		"/H/20130108/dronpa-tom20/NUM3/Q3-UL/293-TOM20-DRONPA-200NM-SR0.05-25MW-CROP_lvPALM.txt",
+		"/H/20130108/dronpa-tom20/num1/E8-LD/293-EGFP-TOM20-SR0.05-LASER30MW-CROP_lvPALM.txt",
+		"/H/20130108/dronpa-tom20/NUM3/J5-M/293-TOM20-DRONPA-200NM-SR0.05-25MW_2-CROP_lvPALM.txt",
+		"/H/20130108/dronpa-tom20/num2/Q8-D/293-TOM20-DRONPA-200NM-SR0.05-20MW_1-CROP_lvPALM.txt",
+		"/H/20130108/dronpa-tom20/num2/Q8-D/293-TOM20-DRONPA-200NM-SR0.05-20MW-crop_lvPALM.txt",
+		"/H/20130108/dronpa-tom20/num1/E8-LD/293-EGFP-TOM20-SR0.05-LASER25MW-CROP_lvPALM.txt",
+		"/H/20130107/num3/K4/293-mEos32-mito-16mw-sr0.05_1-CROP_lvPALM.txt",
+		"/H/20130107/num3/K4/293-mEos32-mito-16mw-sr0.05-CROP_lvPALM.txt",
+		"/H/20130106/num2/r6/293-MITO-MeOS32-200NM-SR0.0-5-LASER30MW_1-CROP_lvPALM.txt",
+		"/H/20130106/num2/r6/293-MITO-MeOS32-200NM-SR0.0-5-LASER30MW_2-CROP_lvPALM.txt",
+		"/H/20130106/num2/r6/293-MITO-MeOS32-200NM-SR0.0-5-LASER30MW_3-CROP_lvPALM.txt",
+		"/H/20130106/num2/r6/293-MITO-MeOS32-200NM-SR0.0-5-LASER30MW_4-CROP_lvPALM.txt",
+		"/H/20130106/num2/H4/293-MITO-MeOS32-200NM-SR0.0-5-LASER20MW_1-CROP_lvPALM.txt",
+		"/H/20130106/num2/H4/293-MITO-MeOS32-200NM-SR0.0-5-LASER20MW-CROP_lvPALM.txt",
+		"/H/20130106/num1/r3/293-MITO-MeOS32-200NM-SR0.0-5-LASER20MW_1-crop_lvPALM.txt",
+		"/H/20130106/num1/r3/293-MITO-MeOS32-200NM-SR0.0-5-LASER20MW_2-crop_lvPALM.txt",
+		"/H/20130106/num1/r3/293-MITO-MeOS32-200NM-SR0.0-5-LASER20MW_3-crop_lvPALM.txt",
+		"/H/20130106/num1/r3/293-MITO-MeOS32-200NM-SR0.0-5-LASER20MW_4-crop_lvPALM.txt",
+		"/H/20130106/num1/q3/293-MITO-MeOS32-200NM-SR0.0-5-LASER25MW_1-crop_lvPALM.txt",
+		"/H/20130106/num1/q3/293-MITO-MeOS32-200NM-SR0.0-5-LASER25MW-crop_lvPALM.txt",
+		"/H/20130106/num1/q3/293-MITO-MeOS32-200NM-SR0.0-5-LASER30MW_1-CROP_lvPALM.txt",
+		"/H/20130106/num1/q3/293-MITO-MeOS32-200NM-SR0.0-5-LASER30MW_2-CROP_lvPALM.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"QLFLVFF",
+			"loc",
+			"pickle_results",
+			"agpy",
+			"add_subplot",
+			"compute_XD_results",
+			"np",
+			"pickle_results",
+			"compute_XD_results",
+			"pickle_results",
+			"hdu",
+			"font.family",
+			"\\",
+			"ing",
+			"except",
+			"__pulsing__",
+			"raw_input",
+			"com",
+			"\n--"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"input"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "parseSeq.py",
+					"settings":
+					{
+						"buffer_size": 926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"auto_name": "##############",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 105.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test_re.py",
+					"settings":
+					{
+						"buffer_size": 205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import re",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test.fasta",
+					"settings":
+					{
+						"buffer_size": 2000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "gui.py",
+					"settings":
+					{
+						"buffer_size": 1218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1070,
+								1070
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import Tkinter as tk",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 364.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"anal",
+				"Module/PALM/analyzeVolocity.m"
+			],
+			[
+				"",
+				"/E/proj/python/test/t1.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true
+}
