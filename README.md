@@ -23,5 +23,6 @@ py2exe
 2. Use Ctrl+B to compile the program. A new folder named 'dist' will appear under the root folder of this project  
 3. Double click main.exe will open a GUI  
 4. Follow the instruction within the GUI  
-![github](http://github.com/snapshot.png "github")
+![github](https://github.com/shepherd87/pySeq/blob/master/snapshot.png?raw=true "github")
+
 #### To do :
